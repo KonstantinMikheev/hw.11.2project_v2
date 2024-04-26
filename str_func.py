@@ -1,7 +1,7 @@
 def foo_upper(string):
     """
     This function makes capital letters
-    string: inputted text
+    string: inputed text
     """
     return string.upper()
 
@@ -9,5 +9,6 @@ def foo_upper(string):
 def foo_title(string):
     """
     This function makes string with capital 1st letter in every word
+    string: inputed text
     """
     return string.title()
